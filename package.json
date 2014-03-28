@@ -1,0 +1,10 @@
+{
+    "name": "api",
+    "description": "Polybynature.com API",
+    "author": "Ian Nusbaum <me@iamian.me>",
+    "dependencies": {
+        "restify": "*",
+        "mongoose": "*"
+    },
+    "engine": "node >= 0.4.1"
+}
